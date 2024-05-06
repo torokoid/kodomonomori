@@ -80,6 +80,7 @@ body::before {
 <h3><span class="white">連休中なのに、行き交ったのは２組だけでした。</span></h3>
 <a href="20240506_006.JPG" data-lightbox="abc"><img src="20240506_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_007.JPG" data-lightbox="abc"><img src="20240506_007.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">かなり贅沢な森林浴になりました。</span></h3>
 <a href="20240506_008.JPG" data-lightbox="abc"><img src="20240506_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_009.JPG" data-lightbox="abc"><img src="20240506_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_010.JPG" data-lightbox="abc"><img src="20240506_010.JPG" alt="サンプル画像" width="900" /></a>
