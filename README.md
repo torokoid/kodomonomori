@@ -68,8 +68,7 @@ body::before {
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2024年5月6日(月)宇都宮北端部の山あいのお蕎麦屋さん、裏山が県の施設でした !!!</marquee></span></h1>
 
-<h3><span class="white">5月連休は人混みばかりで出かけたくないな〜と思っていたら、宇都宮北端部に意外な穴場。</span></h3>	
-<h3><span class="white">その名も、「平成記念こどものもり公園」。</span></h3>
+<h3><span class="white">5月連休は人混みばかりで出かけたくないな〜と思っていたら、宇都宮北端部に意外な穴場。</span></h3>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h3><span class="white">その名も、「平成記念こどものもり公園」。</span></h3>
