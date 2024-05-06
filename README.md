@@ -68,11 +68,11 @@ body::before {
 	
 <h1><span class="yellow"><marquee behavior="left">!!! 2024年5月6日(月)宇都宮北端部の山あいのお蕎麦屋さん、裏山が県の施設でした !!!</marquee></span></h1>
 
-	
+<h3><span class="white">5月連休は人混みばかりで出かけたくないな〜と思っていたら、宇都宮北端部に意外な穴場。</span></h3>	
 <h3><span class="white">その名も、「平成記念こどものもり公園」。</span></h3>
 	
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h3><span class="white">5月連休は人混みばかりで出かけたくないな〜と思っていたら、宇都宮北端部に意外な穴場。</span></h3>
+<h3><span class="white">その名も、「平成記念こどものもり公園」。</span></h3>
 <a href="20240506_001.JPG" data-lightbox="abc"><img src="20240506_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_002.JPG" data-lightbox="abc"><img src="20240506_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_003.JPG" data-lightbox="abc"><img src="20240506_003.JPG" alt="サンプル画像" width="900" /></a>
@@ -98,7 +98,7 @@ body::before {
 <a href="20240506_022.JPG" data-lightbox="abc"><img src="20240506_022.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_023.JPG" data-lightbox="abc"><img src="20240506_023.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_024.JPG" data-lightbox="abc"><img src="20240506_024.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">道沿いのお蕎麦やさん「はるな」が目印。</span></h3>
+<h3><span class="white">道沿いのお蕎麦やさん「榛名」が目印。</span></h3>
 <a href="20240506_025.png" data-lightbox="abc"><img src="20240506_025.png" alt="サンプル画像" width="900" /></a>
 <a href="20240506_026.png" data-lightbox="abc"><img src="20240506_026.png" alt="サンプル画像" width="900" /></a>
 	
