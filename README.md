@@ -91,6 +91,7 @@ body::before {
 <a href="20240506_014.JPG" data-lightbox="abc"><img src="20240506_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_015.JPG" data-lightbox="abc"><img src="20240506_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_016.JPG" data-lightbox="abc"><img src="20240506_016.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">眼下の街並みは、宇都宮市下小池の住宅街。</span></h3>
 <a href="20240506_017.JPG" data-lightbox="abc"><img src="20240506_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_018.JPG" data-lightbox="abc"><img src="20240506_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_019.JPG" data-lightbox="abc"><img src="20240506_019.JPG" alt="サンプル画像" width="900" /></a>
