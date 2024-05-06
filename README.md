@@ -78,6 +78,7 @@ body::before {
 <a href="20240506_003.JPG" data-lightbox="abc"><img src="20240506_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_004.JPG" data-lightbox="abc"><img src="20240506_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_005.JPG" data-lightbox="abc"><img src="20240506_005.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="white">連休中なのに、行き交ったのは２組だけでした。</span></h3>
 <a href="20240506_006.JPG" data-lightbox="abc"><img src="20240506_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_007.JPG" data-lightbox="abc"><img src="20240506_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240506_008.JPG" data-lightbox="abc"><img src="20240506_008.JPG" alt="サンプル画像" width="900" /></a>
